@@ -1,0 +1,12 @@
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\bin\Debug\VSapp.exe.config
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\bin\Debug\VSapp.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\bin\Debug\VSapp.pdb
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\bin\Debug\VSapp.xml
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.vbprojAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.Form1.resources
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.Resources.resources
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.vbproj.GenerateResource.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.xml
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\VSapp\VSapp\obj\Debug\VSapp.pdb
